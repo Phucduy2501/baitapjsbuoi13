@@ -1,0 +1,119 @@
+.btn {
+  width: 90px;
+  height: 40px;
+  border-radius: 10px;
+  border: none;
+  background-color: rgba(0, 0, 255, 0.541);
+  color: white;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s linear;
+}
+
+.btn:hover {
+  background-color: rgba(0, 0, 255, 1);
+}
+
+#diemchuan {
+  height: 30px;
+  width: 200px;
+}
+
+#khuvuc {
+  height: 38px;
+  width: 200px;
+  margin: 0 10px;
+}
+
+#doituong {
+  height: 38px;
+  width: 200px;
+}
+
+#monthu1 {
+  height: 38px;
+  width: 200px;
+}
+#monthu2 {
+  height: 38px;
+  width: 200px;
+  margin: 0 10px;
+}
+
+#monthu3 {
+  height: 38px;
+  width: 200px;
+}
+
+.quanly {
+  margin-bottom: 20px;
+}
+
+.tiendien {
+  margin-bottom: 20px;
+}
+
+.btn-tiendien {
+  width: 150px;
+}
+
+#nhaphoten {
+  height: 38px;
+  width: 200px;
+  margin-right: 10px;
+}
+
+#nhapsokw {
+  height: 38px;
+  width: 200px;
+  margin-right: 10px;
+}
+
+#nhap-ho-ten {
+  height: 38px;
+  width: 200px;
+  margin-right: 10px;
+}
+#thunhapnam {
+  height: 38px;
+  width: 200px;
+  margin-right: 10px;
+}
+
+#nguoiphuthuoc {
+  height: 38px;
+  width: 200px;
+  margin-right: 10px;
+}
+
+.thuecanhan {
+  margin-bottom: 20px;
+}
+
+#tiencap {
+  height: 38px;
+  width: 200px;
+  margin-right: 10px;
+}
+
+#makhachhang {
+  height: 38px;
+  width: 200px;
+  margin-right: 10px;
+}
+
+#kenhcaocap {
+  height: 38px;
+  width: 200px;
+  margin-right: 10px;
+}
+
+.tiencap {
+  margin-bottom: 20px;
+}
+
+#demo {
+  height: 38px;
+  width: 200px;
+  margin-right: 10px;
+}
